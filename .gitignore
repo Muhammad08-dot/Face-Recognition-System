@@ -1,0 +1,5 @@
+venv/
+dataset/
+intruders/
+__pycache__/
+*.jpg 
